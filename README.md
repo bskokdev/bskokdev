@@ -14,10 +14,8 @@
 <a href="https://www.leetcode.com/getzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="getzy" height="30" width="40" /></a>
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skokcmd&show_icons=true&locale=en&layout=compact" alt="skokcmd" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skokcmd&show_icons=true&locale=en" alt="skokcmd" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skokcmd&theme=dracula)](https://git.io/streak-stats)
