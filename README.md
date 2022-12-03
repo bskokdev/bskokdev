@@ -1,5 +1,5 @@
 <h1 align="left">Hi! I'm Boris</h1>
-<h3 align="left">CS student who loves to code and create things</h3>
+<h3 align="left">I love cats and caffeine</h3>
 
 👨‍💻 My website [https://www.skokcmd.com/](https://www.skokcmd.com/)
 
