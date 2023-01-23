@@ -4,8 +4,8 @@
 
 📫 Contact me via email **skokcmd@gmail.com**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skokcmd&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skokcmd&theme=dracula)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skokcmd&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skokcmd&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
