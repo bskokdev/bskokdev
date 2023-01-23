@@ -4,7 +4,6 @@
 * I love cats
 * Data and back-end focused
 * Learning ML in free time
-* 
 
 
 📫 Contact me via email **skokcmd@gmail.com**
