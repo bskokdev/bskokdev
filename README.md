@@ -2,11 +2,7 @@
 
 * 19yo
 * I love cats
-* Data and back-end focused
-* Learning ML in free time
-
-
-📫 Contact me via email **skokcmd@gmail.com**
+* code code code code
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skokcmd&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skokcmd&theme=dracula)](https://git.io/streak-stats)
