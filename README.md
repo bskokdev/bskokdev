@@ -1,8 +1,5 @@
 <h1 align="left">Hi! I'm Boris</h1>
-
-* 20yo 😲
-* I love cats
-* code code code code
+<p aling="center">Computer science student with interest in back-end development</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skokcmd&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skokcmd&theme=dracula)](https://git.io/streak-stats)
