@@ -5,5 +5,4 @@
   <img src="https://skillicons.dev/icons?i=py,java,ts,go,spring,react,html,css,git,docker" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bskokdev&show_icons=true&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bskokdev&layout=compact)
