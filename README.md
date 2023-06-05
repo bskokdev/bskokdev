@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm Boris</h1>
+<h1 align="left">README: My Code, My Comedy</h1>
 <p align="left">Computer science student with interest in back-end development</p>
 <h2 align="left">Technologies I use:</h3>
 <p align="left">
