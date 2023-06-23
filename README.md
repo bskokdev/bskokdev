@@ -1,5 +1,5 @@
 <h1 align="left">README: My Code, My Comedy</h1>
-<p align="left">Anyway, I'm Boris - A Computer Science student with interest in back-end development</p>
+<p align="left">Anyway, I'm Boris - {insert how passionate of a develop you are}</p>
 <h2 align="left">Technologies I use:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,ts,go,spring,react,html,css,git,docker" />
