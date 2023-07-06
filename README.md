@@ -5,4 +5,3 @@
   <img src="https://skillicons.dev/icons?i=py,java,ts,go,spring,react,html,css,git,docker" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bskokdev&layout=compact)
