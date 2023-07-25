@@ -1,4 +1,4 @@
-<h1 align="left">README: My Code, My Comedy</h1>
+<h1 align="left">My Code, My Comedy</h1>
 <p align="left">Anyway, I'm Boris - {insert how passionate of a developer you are}</p>
 <h2 align="left">Technologies I use:</h3>
 <p align="left">
