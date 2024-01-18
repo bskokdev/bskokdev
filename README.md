@@ -3,22 +3,24 @@
 ```python
 class Boris:
     def __init__(self):
-        name = "Boris 'The Algorithm Whisperer' Skok"
-        occupation = "Digital Wizard-in-Training"
-        hobbies = "wrangling datasets, predicting the future with ML models, and casually solving P=NP"
+        self.name = "Boris 'The Algorithm Whisperer' Skok"
+        self.occupation = "Digital Wizard-in-Training"
+        self.hobbies = "wrangling datasets, predicting the future with ML models, and casually solving P=NP"
 
+    def hello(self):
         introduction = f"""
-            Greetings, fellow humans! I am {name}, a noble {occupation}.
-            When I'm not busy with {hobbies}, I'm probably coding up a storm.
+            Greetings, fellow humans! I am {self.name}, a noble {self.occupation}.
+            When I'm not busy with {self.hobbies}, I'm probably coding up a storm.
             Legend has it, I can visualize multidimensional data in my sleep.
         """
         print(introduction)
 
+
 if __name__ == "__main__":
-    b = Boris()
+    Boris().hello()
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,ts,go,spring,react,html,css,git,docker" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,java,ts,spring,react,docker,postgres,git" />
 </p>
 
