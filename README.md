@@ -1,5 +1,3 @@
-# My code, My comedy
-
 ```python
 class Boris:
     def __init__(self):
@@ -20,7 +18,7 @@ if __name__ == "__main__":
     Boris().hello()
 ```
 
-## My skills
+### My skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,java,ts,spring,react,docker,postgres,git" />
 </p>
