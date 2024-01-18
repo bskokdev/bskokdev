@@ -1,3 +1,5 @@
+# Howdy traverel!
+
 ```python
 class Boris:
     def __init__(self):
@@ -18,12 +20,11 @@ if __name__ == "__main__":
     Boris().hello()
 ```
 
-### My skills
+## My skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,java,ts,spring,react,docker,postgres,git" />
 </p>
 
 ### Connect with me
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-skok)
-
 
