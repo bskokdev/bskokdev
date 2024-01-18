@@ -1,9 +1,9 @@
-<h1 align="left">My code, My comedy</h1>
+# My code, My comedy
 
 ```python
 class Boris:
     def __init__(self):
-        self.name = "Boris 'The Algorithm Whisperer' Skok"
+        self.name = "Boris Skok"
         self.occupation = "Digital Wizard-in-Training"
         self.hobbies = "wrangling datasets, predicting the future with ML models, and casually solving P=NP"
 
@@ -20,7 +20,12 @@ if __name__ == "__main__":
     Boris().hello()
 ```
 
+## My skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,java,ts,spring,react,docker,postgres,git" />
 </p>
+
+### Connect with me
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-skok)
+
 
