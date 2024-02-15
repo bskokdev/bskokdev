@@ -1,23 +1,21 @@
 # Howdy traverel!
 
-```python
-class Boris:
-    def __init__(self):
-        self.name = "Boris Skok"
-        self.occupation = "Digital Wizard-in-Training"
-        self.hobbies = "wrangling datasets, predicting the future with ML models, and casually solving P=NP"
+```js
+class Developer {
+  constructor() {
+    this.name = "Boris";
+    this.role = "Computer Science Student & Part-time Software Engineer";
+    this.location = "Czechia";
+    this.interests = ["Simplifying complex problems", "UI Design", "Data manipulation", "Clean & simple code"];
+  }
 
-    def hello(self):
-        introduction = f"""
-            Greetings, fellow humans! I am {self.name}, a noble {self.occupation}.
-            When I'm not busy with {self.hobbies}, I'm probably coding up a storm.
-            Legend has it, I can visualize multidimensional data in my sleep.
-        """
-        print(introduction)
+  currentFocus() {
+    return "Mastering React and diving deeper into backend technologies to enhance my full-stack capabilities.";
+  }
+}
 
-
-if __name__ == "__main__":
-    Boris().hello()
+const boris = new Developer();
+console.log(boris.currentFocus());
 ```
 
 <p align="left">
