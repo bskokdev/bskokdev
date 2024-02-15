@@ -8,10 +8,6 @@ class Developer {
     this.location = "Czechia";
     this.interests = ["Simplifying complex problems", "UI Design", "Data manipulation", "Clean & simple code"];
   }
-
-  currentFocus() {
-    return "Mastering React and diving deeper into backend technologies to enhance my full-stack capabilities.";
-  }
 }
 
 const boris = new Developer();
