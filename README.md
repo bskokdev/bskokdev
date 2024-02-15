@@ -21,7 +21,7 @@ if __name__ == "__main__":
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,java,ts,spring,react,docker,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=ts,react,angular,py,django,java,spring,docker,postgres,git" />
 </p>
 
 ### Connect with me
