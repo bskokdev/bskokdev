@@ -6,7 +6,7 @@ class Developer {
     this.name = "Boris";
     this.role = "Computer Science Student & Part-time Software Engineer";
     this.location = "Czechia";
-    this.interests = ["Simplifying complex problems", "UI Design", "Data manipulation", "Simple code"];
+    this.interests = ["Problem Solving", "Data manipulation", "UI Design", "Simplicity"];
   }
 }
 
