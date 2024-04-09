@@ -11,7 +11,6 @@ class Developer {
 }
 
 const boris = new Developer();
-console.log(boris.currentFocus());
 ```
 
 <p align="left">
