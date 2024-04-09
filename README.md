@@ -15,7 +15,7 @@ console.log(boris.currentFocus());
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,angular,py,django,java,spring,docker,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=ts,react,node,svelte,angular,py,django,java,spring,docker,postgres,git" />
 </p>
 
 ### Connect with me
