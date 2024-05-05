@@ -1,20 +1,47 @@
 # Howdy traverel!
 
-```js
-class Developer {
-  constructor() {
+```java
+package dev.bskokdev;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+
+@AllArgsConstructor
+@Getter
+@Setter
+public class Developer {
+  private String name;
+  private String role;
+  private String location;
+  private String[] interests;
+
+  public Developer() {
     this.name = "Boris";
-    this.role = "Computer Science Student & Part-time Software Engineer";
+    this.role = "Part-Time Software Engineer and Computer Science Student";
     this.location = "Czechia";
-    this.interests = ["Problem Solving", "Data manipulation", "UI Design", "Simplicity"];
+    this.interests =
+        new String[] {
+          "Problem Solving",
+          "Algorithms & Data Structures",
+          "Data Manipulation",
+          "Architecture Design",
+        };
   }
 }
 
-const boris = new Developer();
+public class Main {
+  public static void main(String[] args) {
+    Developer boris = new Developer();
+    for (String interest : boris.getInterests()) {
+      System.out.println(interest);
+    }
+  }
+}
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,svelte,angular,py,django,java,spring,docker,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=java,py,ts,spring,postgres,docker,react,svelte,angular,git" />
 </p>
 
 ### Connect with me
