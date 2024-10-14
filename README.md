@@ -18,10 +18,10 @@ public class Main {
             "Boris",
             "Ostrava, Czechia",
             List.of(
-                    "Problem solving",
-                    "Data Structures and Algorithms",
-                    "Data storage and manipulation",
-                    "Architecture Design"
+                "Problem solving",
+                "Data Structures and Algorithms",
+                "Data storage and manipulation",
+                "Architecture Design"
             )
         );
 
