@@ -1,42 +1,32 @@
 # Howdy traverel!
 
 ```java
-package dev.bskokdev;
+package dev.bskok;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.Setter;
+import java.util.List;
 
-@AllArgsConstructor
-@Getter
-@Setter
-public class Developer {
-  private String name;
-  private String role;
-  private String location;
-  private String[] interests;
-
-  public Developer() {
-    this.name = "Boris";
-    this.role = "Part-Time Software Engineer and Computer Science Student";
-    this.location = "Czechia";
-    this.interests =
-        new String[] {
-          "Problem Solving",
-          "Algorithms & Data Structures",
-          "Data Manipulation",
-          "Architecture Design",
-        };
-  }
+record Developer(String name, String location, List<String> interests) {
+    public void printInterests() {
+        interests.forEach(System.out::println);
+    }
 }
 
 public class Main {
-  public static void main(String[] args) {
-    Developer boris = new Developer();
-    for (String interest : boris.getInterests()) {
-      System.out.println(interest);
+
+    public static void main(String[] args) {
+        Developer boris = new Developer(
+            "Boris",
+            "Ostrava, Czechia",
+            List.of(
+                    "Problem solving",
+                    "Data Structures and Algorithms",
+                    "Data storage and manipulation",
+                    "Architecture Design"
+            )
+        );
+
+        boris.printInterests();
     }
-  }
 }
 ```
 
