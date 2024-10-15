@@ -12,6 +12,7 @@ public class Main {
             interests.forEach(System.out::println);
         }
     }
+
     public static void main(String[] args) {
         Developer boris = new Developer(
             "Boris",
