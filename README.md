@@ -5,14 +5,13 @@ package dev.bskok;
 
 import java.util.List;
 
-record Developer(String name, String location, List<String> interests) {
-    public void printInterests() {
-        interests.forEach(System.out::println);
-    }
-}
 
 public class Main {
-
+    record Developer(String name, String location, List<String> interests) {
+        public void printInterests() {
+            interests.forEach(System.out::println);
+        }
+    }
     public static void main(String[] args) {
         Developer boris = new Developer(
             "Boris",
